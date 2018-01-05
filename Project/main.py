@@ -24,7 +24,7 @@ pot1SoilThresh = 30.0
 pot2SoilThresh = 30.0
 pot3SoilThresh = 30.0
 
-cycleTime = 10 # this sets the refresh timer for the entire script - 900 for normal 15 minutes 
+cycleTime = 900 # this sets the refresh timer for the entire script - 900 for normal 15 minutes 
 
 def main():
     print 'Welcome to the CSAD IoT Crop Care project, press ctrl-c to make a clean exit'
